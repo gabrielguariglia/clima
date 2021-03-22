@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/clima/static/js/main.9326155a.chunk.js",
+    "main.js.map": "/clima/static/js/main.9326155a.chunk.js.map",
+    "runtime-main.js": "/clima/static/js/runtime-main.8767990f.js",
+    "runtime-main.js.map": "/clima/static/js/runtime-main.8767990f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/clima/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3d71c450.chunk.js": "/clima/static/js/2.3d71c450.chunk.js",
+    "static/js/2.3d71c450.chunk.js.map": "/clima/static/js/2.3d71c450.chunk.js.map",
+    "index.html": "/clima/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/clima/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.3d71c450.chunk.js.LICENSE.txt": "/clima/static/js/2.3d71c450.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8767990f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3d71c450.chunk.js",
+    "static/js/main.9326155a.chunk.js"
+  ]
+}
